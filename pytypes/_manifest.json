@@ -1,0 +1,14 @@
+{
+  "6EEouQ3YSUdxiKZUjLSV2Pfaz9LErX154Mf2aBzxtNvv": {
+    "schema_version": "1.1.0",
+    "program_address": "6EEouQ3YSUdxiKZUjLSV2Pfaz9LErX154Mf2aBzxtNvv",
+    "program_name": "vault",
+    "module": "vault",
+    "source_root": "target/idl",
+    "idl_path": "anchor-vault/target/idl/vault.json",
+    "idl_sha256": "7c3bc0d8d3bb19ee46deb21de08097b123c5a2c2e3b7abc9a4739e9a17826ea1",
+    "anchor_version": "0.1.0",
+    "generator_version": "wake-sol gen 0.2.0",
+    "generated_at": "2026-11-05T17:31:39Z"
+  }
+}

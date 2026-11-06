@@ -1,0 +1,3 @@
+# Marks this folder as the test root, so `pytypes/` (generated from the Anchor IDL) is importable.
+[tool.pytest.ini_options]
+testpaths = ["tests"]
