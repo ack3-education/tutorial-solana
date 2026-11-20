@@ -173,3 +173,9 @@ Security challenges where you write the exploit yourself:
   `wake-sol gen --target-idl anchor-vault/target/idl --out pytypes --check`.
 - **Defaults that differ from mainnet**: no fees unless you call `svm.set_fees`; the older rent rate
   (890,880 lamports for 0 bytes, against 650,240 on mainnet); the clock starts at Unix time 0.
+
+---
+
+Part of [ack3 education](https://github.com/ack3-education): hands-on material for
+[NIE-BLO](https://courses.fit.cvut.cz/NIE-BLO/) at FIT ČVUT, published by [ack3](https://ack3.ai).
+Tests and fuzzing run on [wake.sol](https://github.com/ack3-ai/wake.sol).
